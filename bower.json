@@ -1,0 +1,17 @@
+{
+  "name": "angular-number-animator",
+  "version": "1.0.0",
+  "authors": [
+    "Sanjay B"
+  ],
+  "description": "Angular Number Animator directive",
+  "keywords": [
+    "ng",
+    "angular",
+    "animation"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery-animateNumber": "~0.0.14"
+  }
+}

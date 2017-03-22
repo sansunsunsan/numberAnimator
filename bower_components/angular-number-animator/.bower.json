@@ -1,0 +1,27 @@
+{
+  "name": "angular-number-animator",
+  "authors": [
+    "Sanjay B"
+  ],
+  "description": "Angular Number Animator directive",
+  "keywords": [
+    "ng",
+    "angular",
+    "animation"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery-animateNumber": "~0.0.14"
+  },
+  "homepage": "https://github.com/sansunsunsan/numberAnimator",
+  "_release": "83c3a6a496",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "83c3a6a4962c7428556cf129af57a1005fbb731e"
+  },
+  "_source": "https://github.com/sansunsunsan/numberAnimator.git",
+  "_target": "*",
+  "_originalSource": "angular-number-animator",
+  "_direct": true
+}
