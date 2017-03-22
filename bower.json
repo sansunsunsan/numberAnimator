@@ -4,6 +4,7 @@
   "authors": [
     "Sanjay B"
   ],
+   "main": "dist.js",
   "description": "Angular Number Animator directive",
   "keywords": [
     "ng",
