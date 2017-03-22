@@ -3,7 +3,7 @@ Angularjs Directive based on http://aishek.github.io/jquery-animateNumber/
 
 ### Usage
 
-<number-animator number="40" fontsize="20" speed="4000"></number-animator>
+"<number-animator number="40" fontsize="20" speed="4000"></number-animator>"
 
 ### options
 
