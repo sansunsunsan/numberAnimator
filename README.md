@@ -3,8 +3,9 @@ Angularjs Directive based on http://aishek.github.io/jquery-animateNumber/
 
 ### Usage
 bower install angular-number-animator --save
+---
 In app.js include the module name 'angular-number-animator'
-
+---
 ```html
 <number-animator number="40" fontsize="20" speed="4000"></number-animator>
 ```
