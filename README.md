@@ -19,7 +19,7 @@ Speed of Animation
 
 ---
 
-### queires?
+### queries?
 shoot a mail @sanjay09b09@gmail.com
 
 
