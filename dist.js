@@ -8,12 +8,11 @@ app.directive('numberAnimator',function(){
         speed:'@'
       },
       link:function(scope,el,a){
-        console.log("Element",el)
-        console.log("Scope",scope.number)
+      
         el.animateNumber(
           {
             number: scope.number,
-            color: 'green',
+            color: 'black',
             'font-size': scope.fontsize+'px',
             easing: 'easeInQuad'
           },
